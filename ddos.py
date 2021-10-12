@@ -2,7 +2,6 @@ import socket
 import sys
 import threading
 
-# vítima
 target = sys.argv[1]
 fake_ip = '503.032.320.222'
 port = 80
